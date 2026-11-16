@@ -1,6 +1,6 @@
 ## <The Generalizability of Survey Experiments>
 
-**Contributor:** <Daniel Seungwon Kang>
+**Contributor:** Daniel Seungwon Kang
 
 **Full citation:** <Mullinix, Kevin J., Thomas J. Leeper, James N. Druckman, and Jeremy Freese. 2015. "The Generalizability of Survey Experiments." Journal of Experimental Political Science 2 (2): 109–38.>
 
